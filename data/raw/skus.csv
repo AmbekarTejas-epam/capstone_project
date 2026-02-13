@@ -1,0 +1,6 @@
+sku_id,brand,category,sub_category,pack_size,cost_price
+SKU001,FreshFizz,Beverages,Carbonated Drinks,500ml,18
+SKU002,FreshFizz,Beverages,Carbonated Drinks,1L,30
+SKU003,Crispo,Snacks,Chips,100g,12
+SKU004,Crispo,Snacks,Chips,200g,22
+SKU005,DailyDairy,Dairy,Flavoured Milk,200ml,14

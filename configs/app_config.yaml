@@ -1,0 +1,6 @@
+llm:
+  provider: databricks
+  model: databricks-gpt-oss-120b
+  temperature: 0.2
+  base_url: https://spark.conf.get("spark.databricks.workspaceUrl")/serving-endpoints
+  api_key: dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()

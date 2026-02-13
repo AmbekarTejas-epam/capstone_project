@@ -1,0 +1,6 @@
+store_id,city,state,region,store_type,size_sqft
+S001,Mumbai,Maharashtra,West,Metro,4500
+S002,Pune,Maharashtra,West,Tier-2,3200
+S003,Bengaluru,Karnataka,South,Metro,4800
+S004,Hyderabad,Telangana,South,Metro,4300
+S005,Indore,Madhya Pradesh,Central,Tier-2,3000
